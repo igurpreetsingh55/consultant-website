@@ -1,1 +1,2 @@
-# consultant-website made using Html, Css and Javascript.
+# consultant-website
+Made using Html, Css and Javascript.
